@@ -125,8 +125,8 @@ public class PlyerVsPlyer extends AppCompatActivity {
                         new Handler().postDelayed(new Runnable() {
                             @Override
                             public void run() {
-                                playComputerMove();
                                 enableAllButtons();
+                                playComputerMove();
                             }
                         }, 2000);
                     }
