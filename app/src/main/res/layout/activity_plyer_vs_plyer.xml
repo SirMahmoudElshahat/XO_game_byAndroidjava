@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PlyerVsPlyer">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="220dp"
+        android:background="@drawable/grid_border"
+        android:padding="20dp"
+        app:columnCount="3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:rowCount="3">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button11"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            android:textColorLink="#FFFFFF"
+            android:textSize="80sp"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button12"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button13"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button21"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button22"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/rounded_button"
+            android:textColorLink="#FFFFFF"
+            android:textSize="80sp"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button23"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button31"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button32"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button33"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/rounded_button"
+            android:textSize="80sp"
+            android:textColorLink="#FFFFFF"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </androidx.gridlayout.widget.GridLayout>
+
+
+    <Button
+        android:id="@+id/button_new_game"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="100dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="New Game ! "
+        android:textColor="#000000"
+        android:textColorLink="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:strokeColor="#000000"
+        app:strokeWidth="3dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView_game_mode1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="Game is Run"
+        android:textColor="#000000"
+        android:textSize="55dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView_game_mode2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Player 1 (x) should play"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/textView_game_mode1"
+        app:layout_constraintStart_toStartOf="@+id/textView_game_mode1"
+        app:layout_constraintTop_toBottomOf="@+id/textView_game_mode1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
