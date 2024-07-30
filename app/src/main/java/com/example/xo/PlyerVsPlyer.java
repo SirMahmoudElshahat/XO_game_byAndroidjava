@@ -188,13 +188,13 @@ public class PlyerVsPlyer extends AppCompatActivity {
     }
 
     private void player2Wins() {
+        disableAllButtons();
         game_mode1.setText("Game is End");
         if(pc_is_play){
             game_mode2.setText("Phone Win, Good luck next time");
         }else {
             game_mode2.setText("Player 2 (o) wins!");
         }
-        disableAllButtons();
     }
 
     private void draw() {
