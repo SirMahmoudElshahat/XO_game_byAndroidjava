@@ -13,20 +13,27 @@
         android:theme="@style/Theme.XO"
         tools:targetApi="31">
         <activity
-            android:name=".PlyerVsPC"
+            android:name=".DialogLanguages"
             android:exported="false" />
         <activity
-            android:name=".PlyerVsPlyer"
+            android:name=".History"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.XO">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PlyerVsPlyer"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

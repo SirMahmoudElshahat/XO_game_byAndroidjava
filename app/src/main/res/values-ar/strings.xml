@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X &amp; O</string>
+    <string name="change_language_button">عر</string>
+    <string name="welcome_text">مرحبًا</string>
+    <string name="button_1vs1">لاعب ضد لاعب</string>
+    <string name="button_p_vs_phone">لاعب ضد الهاتف</string>
+    <string name="button_Ok">حسنًا</string>
+    <string name="choose_language_text_view">اختر اللغة</string>
+    <string name="easy">سهل</string>
+    <string name="normal">عادي</string>
+    <string name="hard">صعب</string>
+    <string name="player_1_name">اسم اللاعب 1</string>
+    <string name="player_2_name">اسم اللاعب 2</string>
+    <string name="history">سجل اللعب</string>
+    <string name="button_new_game">لعبة جديدة!</string>
+    <string name="please_choose_play_mode">يرجى اختيار وضع اللعب</string>
+    <string name="you_should_play">يجب أن تلعب</string>
+    <string name="text_view_game_mode1">اللعبة قيد التشغيل</string>
+    <string name="you_won_0_times">لقد فزت: 0 مرات</string>
+    <string name="phone_won_0_times">فاز الهاتف: 0 مرات</string>
+    <string name="x_should_play">(x) يجب أن يلعب</string>
+    <string name="won_0_times">فاز: 0 مرات</string>
+    <string name="game_is_end">انتهت اللعبة</string>
+    <string name="buttom_alredy_played">تم اللعب بهذا الزر بالفعل</string>
+    <string name="o_should_play">(o) يجب أن يلعب</string>
+    <string name="phone_play">الهاتف يلعب ⌛</string>
+    <string name="you_win_congratulations">لقد فزت، تهانينا!</string>
+    <string name="you_won">لقد فزت:</string>
+    <string name="times">مرات</string>
+    <string name="you_won_history">فزت\n</string>
+    <string name="x_wins">(x) فاز!</string>
+    <string name="won">فاز:</string>
+    <string name="won_history">\nفاز</string>
+    <string name="phone_win_good_luck">فاز الهاتف، حظًا أفضل في المرة القادمة</string>
+    <string name="phone_won">فاز الهاتف:</string>
+    <string name="phone_won_history">الهاتف\nفاز</string>
+    <string name="o_wins">(o) فاز!</string>
+    <string name="draw">تعادل!</string>
+    <string name="draw_history">تعادل</string>
+    <string name="vs">ضد</string>
+    <string name="you_vs_phone">أنت ضد الهاتف (</string>
+    <string name="date_format">HH:mm | dd/MM/yyyy</string>
+</resources>

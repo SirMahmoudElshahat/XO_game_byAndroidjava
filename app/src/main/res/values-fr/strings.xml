@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X &amp; O</string>
+    <string name="change_language_button">Fr</string>
+    <string name="welcome_text">Bienvenue</string>
+    <string name="button_1vs1">Joueur Vs Joueur</string>
+    <string name="button_p_vs_phone">Joueur Vs Téléphone</string>
+    <string name="button_Ok">Ok</string>
+    <string name="choose_language_text_view">Choisir la langue</string>
+    <string name="easy">Facile</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Difficile</string>
+    <string name="player_1_name">Nom du Joueur 1</string>
+    <string name="player_2_name">Nom du Joueur 2</string>
+    <string name="history">Historique</string>
+    <string name="button_new_game">Nouvelle Partie!</string>
+    <string name="please_choose_play_mode">Veuillez choisir un mode de jeu</string>
+    <string name="you_should_play">Vous devriez jouer</string>
+    <string name="text_view_game_mode1">Le jeu est en cours</string>
+    <string name="you_won_0_times">Vous avez gagné : 0 fois</string>
+    <string name="phone_won_0_times">Le téléphone a gagné : 0 fois</string>
+    <string name="x_should_play">(x) doit jouer</string>
+    <string name="won_0_times">a gagné : 0 fois</string>
+    <string name="game_is_end">Le jeu est terminé</string>
+    <string name="buttom_alredy_played">Bouton déjà utilisé</string>
+    <string name="o_should_play">(o) doit jouer</string>
+    <string name="phone_play">Téléphone joue ⌛</string>
+    <string name="you_win_congratulations">Vous avez gagné, Félicitations!</string>
+    <string name="you_won">Vous avez gagné : </string>
+    <string name="times">fois</string>
+    <string name="you_won_history">Vous\nAvez Gagné</string>
+    <string name="x_wins">(x) gagne!</string>
+    <string name="won">a gagné : </string>
+    <string name="won_history">\nA Gagné</string>
+    <string name="phone_win_good_luck">Le téléphone a gagné, bonne chance la prochaine fois</string>
+    <string name="phone_won">Le téléphone a gagné : </string>
+    <string name="phone_won_history">Téléphone\nA Gagné</string>
+    <string name="o_wins">(o) gagne!</string>
+    <string name="draw">Match nul!</string>
+    <string name="draw_history">Match nul</string>
+    <string name="vs">Vs</string>
+    <string name="you_vs_phone">Vous Vs Téléphone (</string>
+    <string name="date_format">HH:mm | dd/MM/yyyy</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X &amp; O</string>
+    <string name="change_language_button">中文</string>
+    <string name="welcome_text">欢迎</string>
+    <string name="button_1vs1">玩家对战玩家</string>
+    <string name="button_p_vs_phone">玩家对战手机</string>
+    <string name="button_Ok">好</string>
+    <string name="choose_language_text_view">选择语言</string>
+    <string name="easy">简单</string>
+    <string name="normal">普通</string>
+    <string name="hard">困难</string>
+    <string name="player_1_name">玩家1姓名</string>
+    <string name="player_2_name">玩家2姓名</string>
+    <string name="history">历史</string>
+    <string name="button_new_game">新游戏!</string>
+    <string name="please_choose_play_mode">请选择游戏模式</string>
+    <string name="you_should_play">你应该玩</string>
+    <string name="text_view_game_mode1">游戏正在进行</string>
+    <string name="you_won_0_times">你赢了：0次</string>
+    <string name="phone_won_0_times">手机赢了：0次</string>
+    <string name="x_should_play">(x) 应该玩</string>
+    <string name="won_0_times">赢了：0次</string>
+    <string name="game_is_end">游戏结束</string>
+    <string name="buttom_alredy_played">按钮已经被使用</string>
+    <string name="o_should_play">(o) 应该玩</string>
+    <string name="phone_play">手机玩 ⌛</string>
+    <string name="you_win_congratulations">你赢了，恭喜!</string>
+    <string name="you_won">你赢了：</string>
+    <string name="times">次</string>
+    <string name="you_won_history">你\n赢了</string>
+    <string name="x_wins">(x) 赢了!</string>
+    <string name="won">赢了：</string>
+    <string name="won_history">\n赢了</string>
+    <string name="phone_win_good_luck">手机赢了，下次好运</string>
+    <string name="phone_won">手机赢了：</string>
+    <string name="phone_won_history">手机\n赢了</string>
+    <string name="o_wins">(o) 赢了!</string>
+    <string name="draw">平局!</string>
+    <string name="draw_history">平局</string>
+    <string name="vs">对战</string>
+    <string name="you_vs_phone">你对战手机 (</string>
+    <string name="date_format">yyyy年MM月dd日 HH:mm</string>
+</resources>
